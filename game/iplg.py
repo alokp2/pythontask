@@ -1,5 +1,39 @@
-import random
+"""
+Welcome to IPL
 
+ CSK , KIXP , KKR , RR , RCB
+
+ YOUR NAME :   CSK
+Opp. Team :  Automatically Select (Random)
+
+
+------------------------------------------
+ TOSS TIME :
+
+ YOUR CHOICE : (H/T)  : H
+
+ SYSTEM TOSS : H
+
+ YOU WON THE TOSS
+
+ SELECT YOUR CHOICE :
+
+  1) BAT
+ 2) BOLL
+ 1) BAT
+  6 - balls
+
+1, 2 , 3 , 4 , 6 , WICKET , NO BALL , WIDE
+
+"""
+
+
+
+
+
+
+
+import random
 print("Welcome to IPL")
 li = ["CSK", "KIXP", "KKR", "RR", "RCB", "GT", "MI"]
 print(li)
