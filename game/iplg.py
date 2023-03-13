@@ -26,13 +26,6 @@ Opp. Team :  Automatically Select (Random)
 1, 2 , 3 , 4 , 6 , WICKET , NO BALL , WIDE
 
 """
-
-
-
-
-
-
-
 import random
 print("Welcome to IPL")
 li = ["CSK", "KIXP", "KKR", "RR", "RCB", "GT", "MI"]
