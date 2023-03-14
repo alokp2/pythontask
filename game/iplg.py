@@ -53,7 +53,6 @@ else:
     print(random.choice(["Bat", "Ball"]))
 
 # The possibility of getting all outcome in six balls
-sum=0;
 total_balls = [0, 1, 2, 3, 4, 5, 6, 'wicket', 'NoBall', 'wide']
 n = 6
 for items in range(n):
